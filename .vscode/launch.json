@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/Aman/Desktop/codechef problems/day 3",
       "program": "c:/Users/Aman/Desktop/codechef problems/day 3/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/Aman/Desktop/codechef problems/day 2",
+      "program": "c:/Users/Aman/Desktop/codechef problems/day 2/build/Debug/outDebug",
+>>>>>>> eed4fb3e69fe14648b642ec378a9e547638fe735
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
